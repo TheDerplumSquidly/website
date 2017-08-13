@@ -1,0 +1,80 @@
+#box1 {
+    background-color: white;
+    background-image: url("underwater.jpeg");
+    background-size: 100% 100%;
+    height: 100vh;
+    width: 100%;
+}
+
+body, .nopad {
+    margin:0;
+    padding:0;
+}
+
+#mainTitle {
+    text-align: center;
+    font-size: 250%;
+}
+
+#box1Text {
+    padding-top: 30vh;
+    margin: auto;
+    text-align: center;
+}
+
+#arrow {
+    position: absolute;
+    bottom: 0;
+    width: 10vh;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#box3 {
+    text-align: center;
+    background-color: whitesmoke
+}
+
+.imageLink {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.imageLink img {
+    height: 150px;
+    width: 150px;
+}
+
+.imageLink p {
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 200%;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    line-height: 100%;
+}
+
+#box2 {
+    background-color: #c9e4e5;
+    text-align: center;
+}
+
+#box2 .text {
+    width: 75%;
+    margin: auto;
+}
+
+#box2 img {
+    width: 75%;
+    height: auto;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 150%;
+}
