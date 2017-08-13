@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+title: The Derplum Squidly
+description: Our Website
+show_downloads: false
