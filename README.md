@@ -1,6 +1,6 @@
-#What is This?
+##What is This?
 This is the code for the [Durplum Squidly Website](https://thederplumsquidly.github.io/website/)
-#Should I Be Here?
+##Should I Be Here?
 Unless you are apart of our team, no.
-#WTH is Markdown?
+##WTH is Markdown?
 Read markdown.md
